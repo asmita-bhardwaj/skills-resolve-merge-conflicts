@@ -1,3 +1,5 @@
-# References
 
-* octocat 1 😈
+# NOT References (conflicting)
+
+* NOT octocat 1 😈 (conflicting)
+
